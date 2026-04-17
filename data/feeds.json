@@ -18,5 +18,9 @@
     {
         "url": "https://techcrunch.com/feed/",
         "enabled": true
+    },
+    {
+        "url": "https://www.wired.com/feed/rss",
+        "enabled": true
     }
 ]
