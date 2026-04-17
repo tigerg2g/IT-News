@@ -13,19 +13,19 @@
     },
     {
         "url": "https://yozm.wishket.com/magazine/feed/",
-        "enabled": true
+        "enabled": false
     },
     {
         "url": "https://techcrunch.com/feed/",
-        "enabled": true
+        "enabled": false
     },
     {
         "url": "https://www.wired.com/feed/rss",
-        "enabled": true
+        "enabled": false
     },
     {
         "url": "http://www.theverge.com/rss/full.xml",
-        "enabled": true
+        "enabled": false
     },
     {
         "url": "http://www.engadget.com/rss-full.xml",
