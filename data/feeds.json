@@ -22,5 +22,9 @@
     {
         "url": "https://www.wired.com/feed/rss",
         "enabled": true
+    },
+    {
+        "url": "http://www.theverge.com/rss/full.xml",
+        "enabled": true
     }
 ]
