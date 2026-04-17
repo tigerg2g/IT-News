@@ -5,7 +5,7 @@
     },
     {
         "url": "https://www.bloter.net/rss/allArticle.xml",
-        "enabled": false
+        "enabled": true
     },
     {
         "url": "https://news.hada.io/rss/news",
