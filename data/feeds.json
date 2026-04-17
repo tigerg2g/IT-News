@@ -26,5 +26,9 @@
     {
         "url": "http://www.theverge.com/rss/full.xml",
         "enabled": true
+    },
+    {
+        "url": "http://www.engadget.com/rss-full.xml",
+        "enabled": true
     }
 ]
