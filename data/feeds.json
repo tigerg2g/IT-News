@@ -1,11 +1,11 @@
 [
     {
         "url": "https://feeds.feedburner.com/zdnetkorea/news",
-        "enabled": true
+        "enabled": false
     },
     {
         "url": "https://www.bloter.net/rss/allArticle.xml",
-        "enabled": true
+        "enabled": false
     },
     {
         "url": "https://news.hada.io/rss/news",
@@ -13,7 +13,7 @@
     },
     {
         "url": "https://yozm.wishket.com/magazine/feed/",
-        "enabled": false
+        "enabled": true
     },
     {
         "url": "https://techcrunch.com/feed/",
