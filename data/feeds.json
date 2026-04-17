@@ -29,14 +29,14 @@
     },
     {
         "url": "http://www.engadget.com/rss-full.xml",
-        "enabled": true
+        "enabled": false
     },
     {
         "url": "http://feeds.feedburner.com/fastcompany/headlines",
-        "enabled": true
+        "enabled": false
     },
     {
         "url": "http://www.producthunt.com/feed",
-        "enabled": true
+        "enabled": false
     }
 ]
