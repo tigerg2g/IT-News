@@ -34,5 +34,9 @@
     {
         "url": "http://feeds.feedburner.com/fastcompany/headlines",
         "enabled": true
+    },
+    {
+        "url": "http://www.producthunt.com/feed",
+        "enabled": true
     }
 ]
