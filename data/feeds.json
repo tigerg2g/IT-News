@@ -1,6 +1,18 @@
 [
-    "https://feeds.feedburner.com/zdnetkorea/news",
-    "https://www.bloter.net/rss/allArticle.xml",
-    "https://news.hada.io/rss/news",
-    "https://yozm.wishket.com/magazine/feed/"
+    {
+        "url": "https://feeds.feedburner.com/zdnetkorea/news",
+        "enabled": true
+    },
+    {
+        "url": "https://www.bloter.net/rss/allArticle.xml",
+        "enabled": true
+    },
+    {
+        "url": "https://news.hada.io/rss/news",
+        "enabled": true
+    },
+    {
+        "url": "https://yozm.wishket.com/magazine/feed/",
+        "enabled": true
+    }
 ]
