@@ -14,5 +14,9 @@
     {
         "url": "https://yozm.wishket.com/magazine/feed/",
         "enabled": true
+    },
+    {
+        "url": "https://techcrunch.com/feed/",
+        "enabled": true
     }
 ]
